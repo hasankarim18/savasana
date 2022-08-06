@@ -1,0 +1,22 @@
+.header {
+    background-color: #E9918D;
+    padding: 20px 0;
+    color: white;
+    border-radius: 40px 40px 0 0;
+}
+
+.banner {
+    color: white;
+    background-color: #E9918D;
+    padding: 20px 0 50px 0;
+    border-radius: 0 0 40px 40px;
+}
+
+.banner button {
+    background-color: #8D4642;
+    color: #fff;
+    border: 2px solid #8D4642;
+    outline: none;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
