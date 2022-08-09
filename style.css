@@ -33,6 +33,18 @@
 }
 
 
+.app-btn {
+    background-color: #E9918D;
+    color: #fff;
+    border: 2px solid #E9918D;
+    transition: 0.3s ease-in-out;
+}
+
+.app-btn:hover {
+    background-color: #fff;
+    color: #E9918D;
+}
+
 .footer {
     margin-top: 100px;
     background-color: #E9918D;
