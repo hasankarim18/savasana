@@ -34,15 +34,15 @@
 
 
 .app-btn {
-    background-color: #E9918D;
+    background-color: #8D4642;
     color: #fff;
-    border: 2px solid #E9918D;
+    border: 2px solid #8D4642;
     transition: 0.3s ease-in-out;
 }
 
 .app-btn:hover {
     background-color: #fff;
-    color: #E9918D;
+    color: #8D4642;
 }
 
 .footer {
