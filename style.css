@@ -1,3 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin-bottom: 150px;
+}
+
 .header {
     background-color: #E9918D;
     padding: 20px 0;
@@ -19,4 +28,23 @@
     outline: none;
     padding: 10px 30px;
     border-radius: 10px;
+}
+
+.card_img {
+    height: 400px;
+}
+
+
+.footer {
+    position: fixed;
+    left: 0;
+    background-color: #E9918D;
+    bottom: 0;
+    width: 100%;
+    padding: 10px 0;
+}
+
+.footer p {
+    margin: 0;
+    padding: 0;
 }
