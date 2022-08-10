@@ -28,15 +28,18 @@
     border-radius: 10px;
 }
 
-.card_img {
+
+.body-section .card_img {
     height: 400px;
 }
+
+
 
 
 .app-btn {
     background-color: #8D4642;
     color: #fff;
-    border: 2px solid #8D4642;
+    border: 3px solid transparet;
     transition: 0.3s ease-in-out;
 }
 
