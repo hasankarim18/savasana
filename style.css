@@ -10,6 +10,17 @@
     padding: 20px 0;
     color: white;
     border-radius: 40px 40px 0 0;
+    transition: 0.3s ease-in-out;
+}
+
+.header .menu_list li a {
+    transition: 0.3s ease-in-out;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.header .menu_list li a:hover {
+    color: #8D4642;
 }
 
 .banner {
