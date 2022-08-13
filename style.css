@@ -60,7 +60,7 @@
 }
 
 .footer {
-    margin-top: 100px;
+    margin-top: 50px;
     background-color: #E9918D;
     width: 100%;
     padding: 10px 0;
@@ -85,4 +85,8 @@
 
 .buy_mat_card:hover {
     transform: scale(1.5)
+}
+
+.about-us {
+    background-color: #E9918D;
 }
